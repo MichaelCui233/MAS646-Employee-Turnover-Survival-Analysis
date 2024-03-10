@@ -33,4 +33,4 @@ Senior employees have a high probability of not quitting or being fired, indicat
 
 Performance is a crucial factor in employee retention, and underperformance is a significant predictor of both quitting and being fired. Hence, a performance improvement plan needs to be implemented to support underperforming employees and reduce the risk of turnover.
 
-Read more detail in this presentation: MAS646 Final Project.pdf
+Read more detail in this presentation: [MAS646 Final Project.pdf](https://github.com/MichaelCui233/MAS646-Employee-Turnover-Survival-Analysis/blob/958ff11c6824b9756ac0fe32e5843a41b75b455f/MAS646%20Final%20Project.pdf)https://github.com/MichaelCui233/MAS646-Employee-Turnover-Survival-Analysis/blob/958ff11c6824b9756ac0fe32e5843a41b75b455f/MAS646%20Final%20Project.pdf
